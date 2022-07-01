@@ -1,0 +1,21 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+#simone-holder {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  height: 100%;
+}
+
+
+h2 {
+  flex: 0 1 auto;
+}
+
+#simone-player {
+  flex: 1 1 auto;
+}
